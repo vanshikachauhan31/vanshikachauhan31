@@ -79,7 +79,7 @@ To grow into a Data Scientist who values:
 
 ## 🤝 Let’s Connect
 GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: coming soon
+LinkedIn: https://www.linkedin.com/in/vanshika-chauhan-1b343334b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 _This profile will evolve as I do._
