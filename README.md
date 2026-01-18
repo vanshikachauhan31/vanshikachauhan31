@@ -1,16 +1,85 @@
-## Hi there 👋
+# Vanshika Chauhan
 
-<!--
-**vanshikachauhan31/vanshikachauhan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Data Science Undergraduate  
+🧠 Curious about data, patterns, and logic  
+🛠️ Building skills one project at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 My Learning Compass
+I believe Data Science is not about tools first,  
+but about **thinking clearly with data**.
+
+Right now, I focus on:
+- Understanding **how data behaves**
+- Writing **clean and readable code**
+- Solving **small problems deeply**, not many problems superficially
+
+---
+
+## 🔍 Areas I’m Exploring
+- Programming foundations (C, Python)
+- Data handling & basic analysis
+- Statistics essentials for decision making
+- Problem-solving using logic & structure
+
+---
+
+## 🧪 Learning Lab (Projects)
+This GitHub is my **learning laboratory**.
+
+Projects here may look simple — but each one teaches:
+- how to break a problem down
+- how to think before coding
+- how to improve step-by-step
+
+**Current experiments:**
+- Student Performance Analyzer (C)
+- Basic Statistics Toolkit
+- Core C Programs (loops, arrays, functions)
+- HTML pages for structured data display
+
+---
+
+## 📊 Skill Snapshot
+| Domain | Level |
+|------|------|
+| C Programming | Foundation |
+| Python | Beginner |
+| Statistics | Learning |
+| Data Analysis | Beginner |
+| Git & GitHub | Active User |
+
+---
+
+## 🧩 How I Work
+- ✏️ Write logic on paper first
+- 🧱 Build concepts before frameworks
+- 🔄 Improve code after feedback
+- 📈 Track progress, not perfection
+
+---
+
+## 🎯 Short-Term Goals
+- Strong grip on **DSA basics**
+- Comfort with **Python for data**
+- First mini **data analysis project**
+
+## 🚀 Long-Term Vision
+To grow into a Data Scientist who values:
+**clarity > complexity**  
+**logic > shortcuts**
+
+---
+
+## 📌 Selected Work
+(Pinned repositories below represent my best understanding so far.)
+
+---
+
+## 🤝 Let’s Connect
+GitHub: https://github.com/YOUR_USERNAME  
+LinkedIn: coming soon
+
+---
+_This profile will evolve as I do._
